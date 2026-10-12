@@ -1,9 +1,9 @@
 #!/bin/sh
-# Moves the site to solquorum.xyz once its DNS points at this server.
+# Moves the site to smrtquorum.top once its DNS points at this server.
 # Runs from /etc/cron.d/quorum-domain every 5 minutes and removes that entry
 # when done: certificate, HTTPS config, solasterism.xyz → 301, SITE_URL.
 set -eu
-D=solquorum.xyz
+D=smrtquorum.top
 IP=188.253.26.129
 APP=/opt/smart-wallet-alerts
 LOG=/var/log/quorum-domain.log

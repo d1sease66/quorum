@@ -6,10 +6,10 @@ Quorum watches every wallet GMGN labels as smart money or KOL, throws out the bo
 how their buys actually performed, and sends a Telegram alert when several high-ranked wallets buy the
 same token within 30 minutes. A public dashboard shows the same data with a 15-minute delay.
 
-- **Dashboard:** https://solasterism.xyz (mirror: https://solquorum.vercel.app)
+- **Dashboard:** https://smrtquorum.top (mirror: https://solquorum.vercel.app)
 - **Telegram bot:** [@solQuorumbot](https://t.me/solQuorumbot)
 - **X:** [@useAsterism](https://x.com/useAsterism)
-- **Public API:** https://solasterism.xyz/api/public/summary
+- **Public API:** https://smrtquorum.top/api/public/summary
 
 Read-only by design: no wallet keys, no signing, no swaps. Not investment advice.
 

@@ -8,7 +8,7 @@ same token within 30 minutes. A public dashboard shows the same data with a 15-m
 
 - **Dashboard:** https://smrtquorum.top (mirror: https://solquorum.vercel.app)
 - **Telegram bot:** [@solQuorumbot](https://t.me/solQuorumbot)
-- **X:** [@useAsterism](https://x.com/useAsterism)
+- **X:** [@smrtQuorum](https://x.com/smrtQuorum)
 - **Public API:** https://smrtquorum.top/api/public/summary
 
 Read-only by design: no wallet keys, no signing, no swaps. Not investment advice.
